@@ -2,7 +2,7 @@
 
 # Frontend Mentor Challenges
 
-> Listing some playful open-source's frontend challenges from  [Frontend Mentor](https://www.frontendmentor.io/) to test my Frontend Skills
+> Listing some playful open-source's frontend challenges from  [Frontend Mentor](https://www.frontendmentor.io/)
 
 
 The main objective of this repository is to showcase challenges accepted and done from [Frontend Mentor](https://www.frontendmentor.io/) in order to keep myself motivated and inspired to Supercharge my front-end skills by building real projects
